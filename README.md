@@ -1,6 +1,8 @@
 # DataCo Supply Chain Risk Intelligence
 **Strategic Logistics Analysis & Predictive Modeling**
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/4GeeksAcademy/Francisco_Johnny_Marcos_ML_SUPPLY-CHAIN_FP_FEB26_V1)
+
 [![Project Status](https://img.shields.io/badge/Status-In--Progress-orange)](#)
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
