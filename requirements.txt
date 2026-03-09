@@ -19,3 +19,5 @@ pandas>=2.0.0
 ipykernel
 streamlit
 joblib
+fastparquet
+pyarrow
